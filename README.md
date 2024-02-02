@@ -44,8 +44,8 @@ O título dos commits serão o mesmo título da aula em que assistirmos por últ
   </tr>
   <tr>
     <td align="center">
-      <a href="DHIEGO">
-        <img src="" width="100px;" alt="Foto de no GitHub"/><br>
+      <a href="https://github.com/dhiegolopes">
+        <img src="https://avatars.githubusercontent.com/u/152008418?v=4" width="100px;" alt="Foto de no GitHub"/><br>
         <sub>
           <b>Dhiego-Reges</b>
         </sub>
